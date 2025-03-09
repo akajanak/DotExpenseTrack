@@ -1,0 +1,17 @@
+#User-specific files
+.idea/
+.vs/
+.vscode/
+*suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Window Image File Caches
+
+#ASP.NET
+[Ll]og/
+./*/[Dd]ebug/
+
+obj/
+bin/
